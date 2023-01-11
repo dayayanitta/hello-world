@@ -7,6 +7,8 @@
   </head>
   <body>
       <h1 class="title">Hello World! </h1>
+      <h1 class="title">Hello World! </h1>
+      <h1 class="title">Hello World! </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
   </body>
