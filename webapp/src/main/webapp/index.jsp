@@ -6,8 +6,8 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      <h1 class="title">Hello World! </h1>
-      <h1 class="title">Hello World! </h1>
+      <h1 class="title">Hello World!..... check </h1>
+      <h2 class="title">Hello World! </h2>
       <h1 class="title">Hello World! </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
