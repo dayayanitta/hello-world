@@ -18,9 +18,6 @@
       <h2 class="title">Welcome to Hello World! </h2>
       <h2 class="title">Welcome to Hello World! </h2>
       <h2 class="title">Welcome to Hello World! </h2>
-      <h2 class="title">Welcome to Hello World! </h2>
-      <h2 class="title">Welcome to Hello World! </h2>
-      <h2 class="title">Welcome to Hello World! </h2>
       <p id="currentTime"></p>
       <script src="script.js"></script>
   </body>
